@@ -1,2 +1,3 @@
-# the_scrapes_of_hell
-A compendium of worst-case scraping and parsing
+# The Scrapes of Hell
+
+### A compendium of worst-case scraping and parsing
